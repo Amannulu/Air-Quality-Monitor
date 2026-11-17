@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- AQI Category Colors -->
+    <color name="aqi_good">#2E7D32</color> <!-- Green: 0-50 -->
+    <color name="aqi_moderate">#FBC02D</color> <!-- Yellow: 51-100 -->
+    <color name="aqi_unhealthy_sensitive">#F57C00</color> <!-- Orange: 101-150 -->
+    <color name="aqi_unhealthy">#D32F2F</color> <!-- Red: 151-200 -->
+    <color name="aqi_very_unhealthy">#7B1FA2</color> <!-- Purple: 201-300 -->
+    <color name="aqi_hazardous">#880E4F</color> <!-- Dark Red/Maroon: 301+ -->
+
+    <color name="card_background_light">#F5F5F7</color>
+    <color name="primary_color">#1976D2</color>
+    <color name="primary_dark">#0D47A1</color>
+</resources>
